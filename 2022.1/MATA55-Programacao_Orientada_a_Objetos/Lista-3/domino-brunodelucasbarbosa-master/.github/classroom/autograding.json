@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "PecaDominoTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=PecaDominoTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "NomeTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=NomeTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "EhPdfTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=EhPdfTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

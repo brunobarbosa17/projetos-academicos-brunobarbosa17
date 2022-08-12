@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "BaralhosDeCartasTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=BaralhosDeCartasTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

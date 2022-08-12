@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "MaiorTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=MaiorTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

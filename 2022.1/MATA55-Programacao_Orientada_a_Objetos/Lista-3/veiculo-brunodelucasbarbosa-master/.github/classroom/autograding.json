@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "VeiculoTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=VeiculoTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

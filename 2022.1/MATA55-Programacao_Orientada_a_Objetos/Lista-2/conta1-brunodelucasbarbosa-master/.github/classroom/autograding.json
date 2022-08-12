@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "ContaTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=ContaTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+

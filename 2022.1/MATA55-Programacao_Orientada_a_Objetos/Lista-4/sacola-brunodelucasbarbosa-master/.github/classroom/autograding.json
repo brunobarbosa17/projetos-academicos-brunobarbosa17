@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "SacolaTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=SacolaTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
+
