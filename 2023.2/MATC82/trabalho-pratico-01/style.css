@@ -1,0 +1,33 @@
+body,
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-items: center;
+	font-size: 1.2em;
+}
+
+.header-me-name-title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	font-family: Georgia;
+	border-bottom: 3px solid #aaa;
+	background-color: #3b3b3b;
+	color: #ddd;
+	padding: 5px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+
+}
+
+input {
+	padding: 5px;
+	margin-bottom: 10px;
+}

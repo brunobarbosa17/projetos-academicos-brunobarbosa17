@@ -2,11 +2,6 @@
 ; Leia três pontos, calcule a distância entre os pontos e, 
 ; teste se: o triângulo é equilátero, isósceles , ou escaleno.
 
-; Equipe: 
-;         Bruno de Lucas
-;         Elis Alcantara
-;         Monique Silva
-
 extern printf
 extern scanf
 extern sqrt

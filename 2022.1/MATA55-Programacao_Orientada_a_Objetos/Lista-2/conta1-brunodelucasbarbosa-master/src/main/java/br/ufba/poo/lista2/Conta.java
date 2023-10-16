@@ -85,8 +85,9 @@ public class Conta {
         Conta conta1 = new Conta("123", 100);
         Conta conta2 = new Conta("1234", 100);
         Conta conta3 = null;
-
-        conta2.transfere(100, conta3);
+        
+        conta1.transfere(100, conta2);
+        
         System.out.println(conta1.getSaldo());
         System.out.println(conta2.getSaldo());
     }
